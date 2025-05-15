@@ -1,3 +1,4 @@
+#' @export
 get.res <- function(x1,lam1,n.gwas,a,rough,twostage){
   m <- length(x1)
   if(twostage){
