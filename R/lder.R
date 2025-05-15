@@ -1,3 +1,6 @@
+#' @title lder function
+#' @description Run lder
+#' @import data.table stats utils parallel
 #' @export
 lder <- function(stats,n.gwas,a=NULL,rough=F,cores=20,twostage=T,type='jack',n.bs=1000){
   library(parallel)
