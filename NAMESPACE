@@ -2,6 +2,7 @@
 
 export(generateLD)
 export(runLDER)
+export(lder)
 import(data.table)
 import(stats)
 import(utils)
