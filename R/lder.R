@@ -1,4 +1,4 @@
-#' @lder function
+#' @title lder function
 #' @description Run lder
 #' @import  data.table stats utils
 #' @export
