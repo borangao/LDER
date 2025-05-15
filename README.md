@@ -21,7 +21,7 @@ Python 3.6
 
 LDER is an R package which can be installed using the command:
 ```r
-devtools::install_github('shuangsong0110/LDER')
+devtools::install_github('borangao/LDER')
 ```
 
 ## :scroll: LD prepared
